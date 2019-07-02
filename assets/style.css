@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(199, 28, 28);
+}
+
+.container-master {
+  width: 80%;
+  margin: 0 auto 0 auto;
+  /*background-color: rgb(199, 28, 28);*/
+}
+
+#jumbotron {
+  background: rgb(199, 28, 28);
+  text-align: center;
+  font-family: 'Arizonia', cursive;
+}
+
+.container {
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'Arizonia', cursive;
+  font-size: 70px;
+}
