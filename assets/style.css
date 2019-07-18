@@ -1,5 +1,7 @@
 body {
   background-color: rgb(199, 28, 28);
+  background-image: url(./station.jpg);
+  background-size: 100% auto;
 }
 
 .container-master {
@@ -11,14 +13,22 @@ body {
 #jumbotron {
   background: rgb(199, 28, 28);
   text-align: center;
-  font-family: 'Arizonia', cursive;
+  font-family: 'Sedgwick Ave Display', cursive;
 }
 
 .container {
   font-weight: bold;
 }
 
-h1 {
-  font-family: 'Arizonia', cursive;
-  font-size: 70px;
+p {
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 80px;
+}
+
+#trainTable {
+  background-color: white;
+}
+
+#addTrain {
+  color: white;
 }
