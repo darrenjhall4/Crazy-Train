@@ -1,6 +1,6 @@
 body {
   background-color: rgb(199, 28, 28);
-  background-image: url(./station.jpg);
+  background-image: url(../images/station.jpg);
   background-size: 100% auto;
 }
 
@@ -31,4 +31,10 @@ p {
 
 #addTrain {
   color: white;
+}
+
+#submit-button {
+  width: 20%;
+  margin: auto;
+  margin-bottom: 20px;
 }
